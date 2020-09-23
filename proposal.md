@@ -33,3 +33,61 @@ and the portfolio. The user may specify notification preferences (Example: Notif
 crypto coin depreciates 10%). 
 
 ## Learning Goals:
+### Team Learning Goals:
+The team will gain experience in applying Python to the web platform. The project will likely require the use of API's for up-to-date financial information. The team shares an interest in learning about crypocurrency, crypto markets, and general portfolio management. 
+
+### Noah's Learning Goals:
+
+### Jasmine's Learning Goals:
+
+### Cameron's Learning Goals:
+
+## Implementation Plan:
+1. Team members must build a solid conceptual foundation of cryptocurrency and crypto markets. 
+2. Evaluate and amend details in the project proposal so that the product more accurately addresses user needs.
+3. Identify general project requirements to begin designing the base program. 
+4. Write the code that satisfies general project requirements.
+
+## Project Schedule:
+### Week 1:
+1. Learn about cryptocurrency, crypto markets, and portfolio management.
+2. Identify cryptocurrencies that will be offered in the MVP. 
+3. Identify crypto markets that are considered reliable and trustworthy as sources of data. 
+4. Consider potential API's to work with. 
+5. Begin designing portfolio management "algorithm".
+### Week 2:
+1. Prepare for Design Review.
+2. Launch basic project website. 
+3. Begin coding the project framework. 
+4. Create an artifical investment portfolio for future testing.
+5. Implement feedback from Design Review.
+### Week 3:
+1. Prepare for Code Review.
+2. Check to ensure code satisfies project requirements. 
+3. Test to ensure market data is accurate and is reflected in artifical portfolio value.
+4. Implement feedback from Code Review.
+### Week 4:
+1. Prepare for Mid-Project presentation. 
+2. Write Notification javascript code for project website.
+3. Test Notification systems with artificial investment portfolio and extremely low loss-tolerance levels.
+### Week 5:
+1. Update the project website. 
+2. Begin designing the cryptocurrency query. (Identify sources that list less-common crypto assets).
+3. Begin designing fractional ownership optionality.
+4. Begin designing individual asset / portfolio monitoring optionality.
+5. Begin designing user-specified loss-tolerance optionality.
+### Week 6:
+1. MVP should be complete by Week 6. 
+2. Evaluate feasibility of the accurate integration of items 2-5 in Week 5. 
+3. Write code for items 2-5 in Week 5. 
+4. Review project criteria and development progress.
+### Week 7:
+1. Update the project website.
+2. Update the Notification javascript code to include any developments past MVP.
+3. Write code for items 2-5 in Week 5. 
+### Week 8:
+1. Prepare for Final Demo. 
+2. Patch any remaining issues.
+
+## Collaboration Plan
+
