@@ -1,6 +1,6 @@
 # Project Proposal 
 
-## The Big Idea:
+## The Big Idea
 ### The Main Idea:
 The premise of the project is to create an investment monitor for crypto assets. 
 User inputs will be: crypto coin, quantity owned, and monetary investment made. 
@@ -32,7 +32,7 @@ individual crypto objects as well as the portfolio object. The program will disp
 and the portfolio. The user may specify notification preferences (Example: Notify when portfolio depreciates 10%, but not when the 
 crypto coin depreciates 10%). 
 
-## Learning Goals:
+## Learning Goals
 ### Team Learning Goals:
 The team will gain experience in applying Python to the web platform. The project will likely require the use of API's for up-to-date financial information. The team shares an interest in learning about crypocurrency, crypto markets, and general portfolio management. 
 
@@ -42,13 +42,13 @@ The team will gain experience in applying Python to the web platform. The projec
 
 ### Cameron's Learning Goals:
 
-## Implementation Plan:
+## Implementation Plan
 1. Team members must build a solid conceptual foundation of cryptocurrency and crypto markets. 
 2. Evaluate and amend details in the project proposal so that the product more accurately addresses user needs.
 3. Identify general project requirements to begin designing the base program. 
 4. Write the code that satisfies general project requirements.
 
-## Project Schedule:
+## Project Schedule
 ### Week 1:
 1. Learn about cryptocurrency, crypto markets, and portfolio management.
 2. Identify cryptocurrencies that will be offered in the MVP. 
@@ -76,18 +76,25 @@ The team will gain experience in applying Python to the web platform. The projec
 3. Begin designing fractional ownership optionality.
 4. Begin designing individual asset / portfolio monitoring optionality.
 5. Begin designing user-specified loss-tolerance optionality.
+6. Begin designing user-specified investment currency.
 ### Week 6:
 1. MVP should be complete by Week 6. 
-2. Evaluate feasibility of the accurate integration of items 2-5 in Week 5. 
-3. Write code for items 2-5 in Week 5. 
+2. Evaluate feasibility of the accurate integration of items 2-6 in Week 5. 
+3. Write code for items 2-6 in Week 5. 
 4. Review project criteria and development progress.
 ### Week 7:
 1. Update the project website.
 2. Update the Notification javascript code to include any developments past MVP.
-3. Write code for items 2-5 in Week 5. 
+3. Write code for items 2-6 in Week 5. 
 ### Week 8:
 1. Prepare for Final Demo. 
 2. Patch any remaining issues.
 
 ## Collaboration Plan
+
+## Risks
+1. Availability of reliable data. Reliable and timely data are crucial, as market prices for cryptocurrencies are prone to violent fluctuations. 
+2. Portfolio value is tied to some other form of currency, whether that be the USD or another cryptocurrency. The team must find the optimal way to illustrate a user's current portfolio value.
+
+## Additional Course Content
 
