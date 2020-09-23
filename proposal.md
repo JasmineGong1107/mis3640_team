@@ -92,6 +92,7 @@ My individual learning goal is to gain experience with apply Python and Javascri
 2. Patch any remaining issues.
 
 ## Collaboration Plan
+The team is spread between three different time zones. Thus, the team has decided to delegate individual tasks that will be integrated after review on a weekly basis. There will be occassional pair programming, as time permits. The weekly evaluations allow for a rapid application development (RAD) methodology, where team members may act as stand-in stakeholders. 
 
 ## Risks
 1. Availability of reliable data. Reliable and timely data are crucial, as market prices for cryptocurrencies are prone to violent fluctuations. 
