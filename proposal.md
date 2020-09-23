@@ -36,11 +36,12 @@ crypto coin depreciates 10%).
 ### Team Learning Goals:
 The team will gain experience in applying Python to the web platform. The project will likely require the use of API's for up-to-date financial information. The team shares an interest in learning about crypocurrency, crypto markets, and general portfolio management. 
 
-### Noah's Learning Goals:
+#### Noah:
+My individual learning goal is to gain experience with apply Python and Javascript to the website. I enjoyed working with Google AppMaker and Professor Gordon's Web Technologies class. I believe that Python could take such experiences to the next level. As an aside, I am pursuing a career in Finance. I am unfamiliar with cryptocurrency, so it should be an interesting topic to research. 
 
-### Jasmine's Learning Goals:
+#### Jasmine:
 
-### Cameron's Learning Goals:
+#### Cameron:
 
 ## Implementation Plan
 1. Team members must build a solid conceptual foundation of cryptocurrency and crypto markets. 
