@@ -31,6 +31,7 @@ My individual learning goal is to gain experience with apply Python and Javascri
 #### Jasmine:
 I major in Computational and MathematicalFinance. However, I feel onlyfinancialanalysis and mathematical finance is not enough to thrive in today’s market. There are multiple website allows users to track stock prices from the mass. However, I have not found any useful tool for me to track my crypto portfolio yet. Trading with technology to make prompt decision and orders is the key in crypto market as well. I aim to create a small software to integrate what I learned in Python class to facilitate my trading journey.
 #### Cameron:
+My individual learning goal during the course of this project is to gain a deeper knowledge and mastery of Python. In doing this, I hope to achieve a real viable piece of software that I am confident enough to put on my resume. I hope to pursue a career in venture capital thus I have sought out to strengthen my technical knowledge as VC and the tech world go hand-in-hand.
 
 ## Implementation Plan
 1. Team members must build a solid conceptual foundation of cryptocurrency, crypto markets, and crypto price providers.
