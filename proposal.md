@@ -7,8 +7,7 @@ User inputs will be: crypto coin, quantity owned, and monetary investment made.
 Multiple types of crypto coins may be entered. 
 The user has the option to track both an individual asset's value and the weighted portfolio's value.
 The entry object will be stored on the server and tracked 24 hours a day.
-The user will be able to specify an acceptable-loss percentage that the program will push an email notification
-if the asset / portfolio depreciates past (Example: 10% loss-tolerance. 10.01% depreciation => email nofication).
+The user will be able to specify an acceptable-loss percentage that the program will push an email notification if the asset / portfolio depreciates past (Example: 10% loss-tolerance. 10.01% depreciation => send notification).
 
 ### Exploration and Generation:
 This project requires research on the topic of cryptocurrency and the crypto markets. As crypto coins remain
@@ -17,20 +16,10 @@ on crypto coin origination, valuation, and payoff characteristics. The findings 
 program requirements in tracking asset value. 
 
 ### Minimum Viable Product:
-The minimum viable product is a website that allows users select a single crypto coin from a specified list of cryptocurrencies
-(this reduces the complexity of tracking high-yield, smaller cap crypto coins). The user will also input the quantity owned 
-and the monetary investment made. The quantity will be restricted to whole assets. The monetary investment is limited to USD. 
-The loss-tolerance will be set at a fixed 10%. The program will notify if the singular coin's valuation depreciates past the 
-loss-tolerance. 
+The minimum viable product is a website that allows users select a single crypto coin from a specified list of cryptocurrencies (this reduces the complexity of tracking high-yield, smaller cap crypto coins). The user will also input the quantity owned and the monetary investment made. The quantity will be restricted to whole assets. The monetary investment is limited to USD. The loss-tolerance will be set at a fixed percentage that will be determined after research. The program will notify if the singular coin's valuation depreciates past the loss-tolerance. 
 
 ### Stretch Goal:
-The stretch goal is a website that allows users to input the name of a crypto coin into a field, and the program runs a query on 
-the input. It will return a list of matches. The user can input quantity owned and monetary investment made. Because crypto coins may 
-be fractionally owned, it will be a challenge to create a standard to measure against. The options for baseline currency are yet
-to be decided. The user can create a portfolio object that contains multiple crypto objects. The user may input a loss-tolerance for
-individual crypto objects as well as the portfolio object. The program will display % total return for the individual crypto coins
-and the portfolio. The user may specify notification preferences (Example: Notify when portfolio depreciates 10%, but not when the 
-crypto coin depreciates 10%). 
+The stretch goal is a website that allows users to input the name of a crypto coin into a field, and the program runs a query on the input. It will return a list of matches. The user can input quantity owned and monetary investment made. Because crypto coins may be fractionally owned, it will be a challenge to create a standard to measure against. The options for baseline currency are yetto be decided. The user can create a portfolio object that contains multiple crypto objects. The user may input a loss-tolerance for individual crypto objects as well as the portfolio object. The program will display % total return for the individual crypto coins and the portfolio. The user may specify notification preferences (Example: Notify when portfolio depreciates 10%, but not when the crypto coin depreciates 10%). 
 
 ## Learning Goals
 ### Team Learning Goals:
@@ -40,11 +29,11 @@ The team will gain experience in applying Python to the web platform. The projec
 My individual learning goal is to gain experience with apply Python and Javascript to the website. I enjoyed working with Google AppMaker and Professor Gordon's Web Technologies class. I believe that Python could take such experiences to the next level. As an aside, I am pursuing a career in Finance. I am unfamiliar with cryptocurrency, so it should be an interesting topic to research. 
 
 #### Jasmine:
-
+I major in Computational and MathematicalFinance. However, I feel onlyfinancialanalysis and mathematical finance is not enough to thrive in today’s market. There are multiple website allows users to track stock prices from the mass. However, I have not found any useful tool for me to track my crypto portfolio yet. Trading with technology to make prompt decision and orders is the key in crypto market as well. I aim to create a small software to integrate what I learned in Python class to facilitate my trading journey.
 #### Cameron:
 
 ## Implementation Plan
-1. Team members must build a solid conceptual foundation of cryptocurrency and crypto markets. 
+1. Team members must build a solid conceptual foundation of cryptocurrency, crypto markets, and crypto price providers.
 2. Evaluate and amend details in the project proposal so that the product more accurately addresses user needs.
 3. Identify general project requirements to begin designing the base program. 
 4. Write the code that satisfies general project requirements.
@@ -60,7 +49,7 @@ My individual learning goal is to gain experience with apply Python and Javascri
 1. Prepare for Design Review.
 2. Launch basic project website. 
 3. Begin coding the project framework. 
-4. Create an artifical investment portfolio for future testing.
+4. Create an artificial investment portfolio for future testing.
 5. Implement feedback from Design Review.
 ### Week 3:
 1. Prepare for Code Review.
