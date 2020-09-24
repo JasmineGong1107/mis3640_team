@@ -29,7 +29,7 @@ The team will gain experience in applying Python to the web platform. The projec
 My individual learning goal is to gain experience with apply Python and Javascript to the website. I enjoyed working with Google AppMaker and Professor Gordon's Web Technologies class. I believe that Python could take such experiences to the next level. As an aside, I am pursuing a career in Finance. I am unfamiliar with cryptocurrency, so it should be an interesting topic to research. 
 
 #### Jasmine:
-I major in Computational and MathematicalFinance. However, I feel onlyfinancialanalysis and mathematical finance is not enough to thrive in today’s market. There are multiple website allows users to track stock prices from the mass. However, I have not found any useful tool for me to track my crypto portfolio yet. Trading with technology to make prompt decision and orders is the key in crypto market as well. I aim to create a small software to integrate what I learned in Python class to facilitate my trading journey.
+I major in Computational and MathematicalFinance. However, I feel only financial analysis and mathematical finance is not enough to thrive in today’s market. There are multiple website allows users to track stock prices from the mass. However, I have not found any useful tool for me to track my crypto portfolio yet. Trading with technology to make prompt decision and orders is the key in crypto market as well. I aim to create a small software to integrate what I learned in Python class to facilitate my trading journey.
 #### Cameron:
 
 ## Implementation Plan
@@ -86,6 +86,9 @@ The team is spread between three different time zones. Thus, the team has decide
 ## Risks
 1. Availability of reliable data. Reliable and timely data are crucial, as market prices for cryptocurrencies are prone to violent fluctuations. 
 2. Portfolio value is tied to some other form of currency, whether that be the USD or another cryptocurrency. The team must find the optimal way to illustrate a user's current portfolio value.
+3. The data contained in our product may is not necessarily real time nor accurate. All prices are not provided by exchanges but rather by market makers, and so the price may not be accurate and may differ from the actual market price, meaning prices are indicative.
+4. User from different countries are subject to different laws and regulations. Our product are not necessarily legal under laws, regulations or directives applicable to all users.
+5. Certain parts of our product contain third-party provided service. Usage of such maybe separate copyright notices and licensing.
 
 ## Additional Course Content
 
